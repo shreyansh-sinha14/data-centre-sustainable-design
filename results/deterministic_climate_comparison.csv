@@ -1,4 +1,0 @@
-City,PUE_baseline,PUE_mixed,Renewable_generation_MWh,Renewable_fraction_pct,CUE_baseline_kgCO2_kWh,CUE_proposed_kgCO2_kWh,CUE_reduction_pct,Payback_years
-Jaipur,1.58,1.18,10994.0,35.9,1.296,0.62,52.1,4.4
-Delhi,1.54,1.18,9548.0,30.6,1.263,0.672,46.8,5.0
-Chennai,1.62,1.18,10687.0,34.8,1.328,0.631,52.5,4.2
