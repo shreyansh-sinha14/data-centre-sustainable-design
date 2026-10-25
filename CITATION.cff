@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using the metadata below."
+type: software
+title: "Data centre sustainable design: 8,760-hour dispatch model, Monte Carlo analysis, validation script, input data and controller study"
+abstract: >-
+  Code and input data supporting "An Integrated Analytical Framework for
+  Sustainable Data Centre Design: CFD-Informed Immersion Cooling, Cryogenic
+  Energy Storage, and Quantum-Secure AI Optimisation". Includes the hourly
+  dispatch model, the 100,000-draw Monte Carlo analysis, the validation
+  script, the NASA POWER and PVGIS input series, and the Q-learning
+  controller study.
+authors:
+  - family-names: Sinha
+    given-names: Shreyansh
+    affiliation: "Department of Data Science and Engineering, Manipal University Jaipur, India"
+  - family-names: Shukla
+    given-names: Shreya
+    affiliation: "Department of Data Science and Engineering, Manipal University Jaipur, India"
+  - family-names: Gupta
+    given-names: Pooja
+    orcid: "https://orcid.org/0000-0001-8096-0658"
+    affiliation: "Department of Data Science and Engineering, Manipal University Jaipur, India"
+  - family-names: Taneja
+    given-names: Sumit
+    affiliation: "Department of Mechanical Engineering, Manipal University Jaipur, India"
+version: "1.0.0"
+date-released: "2026-10-23"
+license: CC-BY-4.0
+repository-code: "https://github.com/shreyansh-sinha14/data-centre-sustainable-design"
+# After Zenodo archives the release, add the DOI here:
+# doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - data centres
+  - immersion cooling
+  - liquid air energy storage
+  - post-quantum cryptography
+  - reinforcement learning
+  - sustainability
